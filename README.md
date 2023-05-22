@@ -17,3 +17,5 @@ Changing a count to dataframe and resetting index
 https://stackoverflow.com/questions/47136436/python-pandas-convert-value-counts-output-to-dataframe
 https://stackoverflow.com/questions/20461165/how-to-convert-index-of-a-pandas-dataframe-into-a-column
 merged the two df’s by referencing merging_solutions exercise
+
+Math - dividing between two columns for per_capita https://linuxhint.com/divide-two-columns-pandas/
