@@ -1,4 +1,5 @@
 # pandas-challenge (Module 4 Challenge)
+Note: This is a daily diary of work on homework including the files that were used as sources or the individuals who I worked with.
 
 5/21 
 Started with PyCitySchools_starter.ipynb
@@ -19,3 +20,10 @@ https://stackoverflow.com/questions/20461165/how-to-convert-index-of-a-pandas-da
 merged the two df’s by referencing merging_solutions exercise
 
 Math - dividing between two columns for per_capita https://linuxhint.com/divide-two-columns-pandas/
+
+5/23
+looked up to remove rows based on condition https://stackoverflow.com/questions/13851535/how-to-delete-rows-from-a-pandas-dataframe-based-on-a-conditional-expression - WORKED!
+
+Used groupby for the per school calculations and the code provided in the starter file
+
+Feel like I have a complicated solution for the % by school calc but will come back to it on Wed.
