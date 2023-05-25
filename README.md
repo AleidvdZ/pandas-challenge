@@ -35,4 +35,7 @@ Feel like I have a complicated solution for the % by school calc but will come b
 - For Scores by School Spending section had to pull the raw numerical data for the "Per Student Budget" - thanks for the hint by Eva in study group
 - Adding a title to index https://sparkbyexamples.com/pandas/pandas-set-index-name-to-dataframe/
 
+5/25
+–Finished Jupyter Notebook coding with no issues or extra assistance
+–Completed written reports. 
 
